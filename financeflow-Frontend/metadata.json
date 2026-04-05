@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow Dashboard",
+  "description": "A secure finance management system with role-based access control, transaction tracking, and real-time analytics.",
+  "requestFramePermissions": []
+}
